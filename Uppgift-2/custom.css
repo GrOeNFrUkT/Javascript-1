@@ -1,0 +1,15 @@
+.postit {
+    background-image: url("sticky-note.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 233.6px;
+    width: 232.5px;
+    overflow: hidden;
+}
+.card {
+    border: none;
+}
+.center {
+    margin: auto;
+    width: 232.5px;
+}
